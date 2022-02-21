@@ -11,7 +11,7 @@ This project is a side scrolling shooter with platformer elements that was part 
 * UI/UX development
 
 ### Gameplay
-Placeholder
+https://youtu.be/EdxJ39SN4pU
 
 
  
